@@ -1,4 +1,4 @@
-#Computer_Glitch_Website
+Computer_Glitch_Website
 
 This was a project from school to make a website to show all the parts of a computer you want to build.
 
@@ -6,4 +6,4 @@ I hoped to build a server (not having a specific type in mind!). I researched th
 
 It is a very simple website (rather very bad styling and css!), which is made from scratch using html, css, and javascript. No back-end for the website.
 
-##Link: https://tanishsh.github.io/Computer_Glitch_Website/
+Link: https://tanishsh.github.io/Computer_Glitch_Website/
